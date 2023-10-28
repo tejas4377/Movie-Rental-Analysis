@@ -1,0 +1,7 @@
+01. Customer Segment:- Identify the customers interest in which Movie he wants to watch by analyzing Sold Tickets?Inventory Stock of particular Movie.
+
+02.Customer Interest:- Identify customer interest by taking short Interview after Movie etc.
+
+03.Pricing Strategy:- Do proper pricing strategy for incresing revenue and beat the peers.
+
+04.Customer Feedback:- Analyzing customer reviews and feedback to make improvements.
